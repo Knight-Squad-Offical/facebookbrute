@@ -146,6 +146,7 @@ class FacebookBrute:
                         if not success or not checkpoint:
                             self.display(6, "", "", "")
                         break
+                word_file.close()
             else:
                 self.display(2, "", "", self.word_list)
 
