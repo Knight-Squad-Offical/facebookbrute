@@ -48,6 +48,8 @@ Websites :
 [https://nomanprodhan.com](https://nomanprodhan.com)
 
 Facebook : 
-[Noman Prodhan](https://facebook.com/im.nomanprodhan)
+[Noman Prodhan - Facebook](https://facebook.com/im.nomanprodhan)
 
+YouTube : 
+[Noman Prodhan - YouTube](https://www.youtube.com/channel/UCUXJhboWqLqccuPlNk7ypNw)
 
